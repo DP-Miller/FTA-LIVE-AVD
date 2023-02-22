@@ -31,7 +31,7 @@
 ### Focus on Security
 - [Security Best Practices](https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide)
 - [Zero Trust for Azure Virtual Desktop for the Enterprise](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-avd)
-- [Cloud Adoption Framework for Azure Virtual Desktop- Security & Governance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-       security-governance-and-compliance)
+- [Cloud Adoption Framework for Azure Virtual Desktop Security & Governance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-security-governance-and-compliance)
 
 
 
