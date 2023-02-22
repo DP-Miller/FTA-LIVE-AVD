@@ -44,7 +44,6 @@
 
 
 ### Deploying AVD 
--
 - [Deploy Azure Virtual Desktop with the getting started feature: Small deployments & POC](https://learn.microsoft.com/en-us/azure/virtual-desktop/getting-started-feature?tabs=new-aadds)
 - [Azure Virtual Desktop (AVD) Landing Zone Accelerator:](https://github.com/Azure/avdaccelerator)
 
