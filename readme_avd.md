@@ -5,7 +5,7 @@
 
 **Questions?** Feel free to type them in the chat window at any time. Note that questions you post will be public.
 
-**Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away. The majority of this session will be driven through the Azure portal and docs.
+**Slideless** Well nearly, our aim next session is to go slideless. As we update this content you will get the changes straight away. The majority of this session will be driven through the Azure portal and docs. We want to try and keep the session interactive as possible.
 
 ### Agenda
 1. [What is Azure Virtual Desktop?](https://aka.ms/WVDDocs)
@@ -27,3 +27,14 @@
 - [Azure Academy AVD Playlist](https://aka.ms/AzureAcademy-WVD)
 - [Azure Virtual Desktop Automation](https://github.com/Azure/avdaccelerator)
 - [Terraform for AVD with NetApp](https://github.com/Azure/terraform/tree/master/quickstart/101-azure-virtual-desktop-anf)
+
+### Focus on Security
+- [Security Best Practices] https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide
+- [Zero Trust for Azure Virtual Desktop for the Enterprise]https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-avd
+- [Cloud Adoption Framework for Azure Virtual Desktop- Security & Governance] https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-   security-governance-and-compliance
+
+
+
+
+
+
