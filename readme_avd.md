@@ -26,6 +26,7 @@
 - [What's new in Azure Virtual Desktop](https://docs.microsoft.com/azure/virtual-desktop/whats-new)
 - [Azure Virtual Desktop Experience Estimator](https://azure.microsoft.com/en-gb/products/virtual-desktop/assessment/#estimation-tool)
 - [Cloud Adoptation Framework for Azure Virtual Desktop: Session host virtual machine sizing guidelines](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-identity-and-access-management#azure-virtual-desktop-design-considerations)
+- [Create a golden image in Azure}(https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-golden-image)
 - [Azure Academy AVD Playlist](https://aka.ms/AzureAcademy-WVD)
 - [Azure Virtual Desktop Automation](https://github.com/Azure/avdaccelerator)
 - [Required URLs for Azure Virtual Desktop | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/safe-url-list?tabs=azure)
