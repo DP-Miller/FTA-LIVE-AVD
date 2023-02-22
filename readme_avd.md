@@ -29,13 +29,19 @@
 - [Azure Virtual Desktop Automation](https://github.com/Azure/avdaccelerator)
 - [Terraform for AVD with NetApp](https://github.com/Azure/terraform/tree/master/quickstart/101-azure-virtual-desktop-anf)
 
+### Focus on Virtual Machine Sizing & User Personas
+- [Session host virtual machine sizing guidelines](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+- [Cloud Adoption Framework for Azure Virtual Desktop User Personas](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/migrate-assess#user-personas)
+
+
 ### Focus on Security
 - [Security Best Practices](https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide)
 - [Zero Trust for Azure Virtual Desktop for the Enterprise](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-avd)
 - [Cloud Adoption Framework for Azure Virtual Desktop Security & Governance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-security-governance-and-compliance)
 
 
-
-
+### Focus on Security
+- []()
+- []()
 
 
